@@ -50,6 +50,11 @@
 7. Server=158.160.138.22
 8. systemctl restart zabbix-agen
 9. systemctl enable zabbix-agent
+![image](https://github.com/user-attachments/assets/0e485e82-8f9a-4e16-bc3a-d184ac671476)
+![image](https://github.com/user-attachments/assets/9211c1fe-6921-4e57-8e35-36751cd5ad14)
+![image](https://github.com/user-attachments/assets/d52aa66b-140b-45eb-9276-39a7f46a403b)
+
+
 
 
 ---
