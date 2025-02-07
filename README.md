@@ -32,6 +32,7 @@
 12. nano /etc/zabbix/zabbix_server.conf
 13. systemctl restart zabbix-server zabbix-agent apache2
 14. systemctl enable zabbix-server zabbix-agent apache2
+![image](https://github.com/user-attachments/assets/3a5189fb-e254-47f3-a13b-6e9e32d59fc4)
 
 
 ---
