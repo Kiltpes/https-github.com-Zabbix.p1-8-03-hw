@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Zabbix" - `Мехтиев Максим`
+# Домашнее задание к занятию "Git" - `Мехтиев Максим`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -17,43 +17,13 @@
 
 ### Задание 1
 
-
-1. sudo apt update && sudo apt upgrade -y
-2. sudo apt install postgresql postgresql-contrib -y
-3. sudo systemctl status postgresql
-4. sudo -s
-5. wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_6.4+ubuntu24.04_all.de
-6. dpkg -i zabbix-release_latest_6.4+ubuntu24.04_all.deb
-7. apt update
-8. apt install zabbix-server-pgsql zabbix-frontend-php php8.3-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
-9. sudo -u postgres createuser --pwprompt zabbix
-10. sudo -u postgres createdb -O zabbix zabbix
-11. zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
-12. nano /etc/zabbix/zabbix_server.conf
-13. systemctl restart zabbix-server zabbix-agent apache2
-14. systemctl enable zabbix-server zabbix-agent apache2
-![image](https://github.com/user-attachments/assets/3a5189fb-e254-47f3-a13b-6e9e32d59fc4)
-
+https://github.com/Kiltpes/Git-lesson/blob/main/README.md
 
 ---
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
-1. sudo -s
-2.  wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_6.4+ubuntu24.04_all.deb
-3. dpkg -i zabbix-release_latest_6.4+ubuntu24.04_all.deb
-4. apt update
-5. apt install zabbix-agent
-6. sudo nano /etc/zabbix/zabbix_agentd.conf
-7. Server=158.160.138.22
-8. systemctl restart zabbix-agen
-9. systemctl enable zabbix-agent
-![image](https://github.com/user-attachments/assets/0e485e82-8f9a-4e16-bc3a-d184ac671476)
-![image](https://github.com/user-attachments/assets/9211c1fe-6921-4e57-8e35-36751cd5ad14)
-![image](https://github.com/user-attachments/assets/d52aa66b-140b-45eb-9276-39a7f46a403b)
-
+https://github.com/Kiltpes/Git-lesson/blob/main/.gitignore
 
 
 
@@ -61,25 +31,7 @@
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![image](https://github.com/user-attachments/assets/bc9f6ac8-b448-4cc1-928f-1b92807ca977)
 
 ### Задание 4
 
