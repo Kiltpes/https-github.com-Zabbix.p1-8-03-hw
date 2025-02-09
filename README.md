@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Git" - `Мехтиев Максим`
+# Домашнее задание к занятию "Что такое DevOps. СI/СD" - `Мехтиев Максим`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -17,13 +17,23 @@
 
 ### Задание 1
 
-https://github.com/Kiltpes/Git-lesson/blob/main/README.md
+![image](https://github.com/user-attachments/assets/95e13579-117f-4f39-a47f-46c1b9a92328)
+![image](https://github.com/user-attachments/assets/f175f451-0edd-44d0-b3db-808452badd8d)
+![image](https://github.com/user-attachments/assets/33e4155b-a402-4822-b665-04108ca7c171)
+![image](https://github.com/user-attachments/assets/121d1ba6-508f-4dc5-84d5-09b906e12d35)
+
+
+
 
 ---
 
 ### Задание 2
 
-https://github.com/Kiltpes/Git-lesson/blob/main/.gitignore
+![image](https://github.com/user-attachments/assets/27ab23a6-3508-4174-a658-7c1a68e8c1e6)
+![image](https://github.com/user-attachments/assets/fb930701-d852-42b5-8b90-3ea439ed59b9)
+![image](https://github.com/user-attachments/assets/a195785c-1cb6-4aa0-b513-51ccafaa2539)
+
+
 
 
 
