@@ -41,7 +41,10 @@
 
 ### Задание 3
 
-![image](https://github.com/user-attachments/assets/bc9f6ac8-b448-4cc1-928f-1b92807ca977)
+![image](https://github.com/user-attachments/assets/455f19da-62f8-4085-b523-d138e7785bd9)
+![image](https://github.com/user-attachments/assets/aa5c98fd-7c00-4943-8036-9634aa19e8a1)
+![image](https://github.com/user-attachments/assets/7b21281d-3860-47b9-9f39-19d80c3c84ed)
+
 
 ### Задание 4
 
