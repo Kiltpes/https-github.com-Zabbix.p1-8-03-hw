@@ -17,10 +17,8 @@
 
 ### Задание 1
 
-![image](https://github.com/user-attachments/assets/95e13579-117f-4f39-a47f-46c1b9a92328)
-![image](https://github.com/user-attachments/assets/f175f451-0edd-44d0-b3db-808452badd8d)
-![image](https://github.com/user-attachments/assets/33e4155b-a402-4822-b665-04108ca7c171)
-![image](https://github.com/user-attachments/assets/121d1ba6-508f-4dc5-84d5-09b906e12d35)
+![image](https://github.com/user-attachments/assets/b944e7c2-46ae-4e76-89ec-66470adc4a92)
+
 
 
 
@@ -29,9 +27,9 @@
 
 ### Задание 2
 
-![image](https://github.com/user-attachments/assets/27ab23a6-3508-4174-a658-7c1a68e8c1e6)
-![image](https://github.com/user-attachments/assets/fb930701-d852-42b5-8b90-3ea439ed59b9)
-![image](https://github.com/user-attachments/assets/a195785c-1cb6-4aa0-b513-51ccafaa2539)
+![image](https://github.com/user-attachments/assets/484c870c-cc48-437d-a6e4-9f2eca764000)
+![image](https://github.com/user-attachments/assets/b529db0d-2189-4cb5-9911-464b3fcf1187)
+
 
 
 
@@ -41,9 +39,7 @@
 
 ### Задание 3
 
-![image](https://github.com/user-attachments/assets/455f19da-62f8-4085-b523-d138e7785bd9)
-![image](https://github.com/user-attachments/assets/aa5c98fd-7c00-4943-8036-9634aa19e8a1)
-![image](https://github.com/user-attachments/assets/7b21281d-3860-47b9-9f39-19d80c3c84ed)
+
 
 
 ### Задание 4
